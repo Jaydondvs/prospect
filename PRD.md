@@ -84,9 +84,9 @@ Exact match = full credit, synonym = 90%, fuzzy = 75%. Missing a must-have also 
 
 ## 7. Tech & hosting
 
-- **Code:** `docs/index.html` (the whole site).
+- **Code:** `index.html` at the repo root (the whole site).
 - **Repo:** GitHub, public.
-- **Hosting:** GitHub Pages, serving the `docs/` folder from the `main` branch.
+- **Hosting:** GitHub Pages, serving the repo root (`/`) of the `main` branch.
 - **Republish rule:** after every change → commit → push → GitHub Pages redeploys automatically (about 1 minute). `publish.sh` does this in one command.
 - `MEMORY.md` and `CLAUDE.md` are personal notes and are kept **out** of the public repo (`.gitignore`).
 

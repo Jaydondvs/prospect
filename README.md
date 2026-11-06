@@ -2,7 +2,7 @@
 
 Paste 5 LinkedIn prospects, set your requirements, and Prospect ranks them like a recruiter would — naming the best match and giving short reasons why the others fall short.
 
-- **Live site:** served by GitHub Pages from the `docs/` folder.
+- **Live site:** https://jaydondvs.github.io/prospect/ (GitHub Pages, repo root).
 - **Plan:** see [PRD.md](PRD.md).
 - **Privacy:** everything runs in the browser. Profile text never leaves your device.
 
